@@ -22,8 +22,6 @@ def digital_clock():
         print clock
         time.sleep(0.5) # used to slow down the loop
         os.system("cls") # Clears the screen
-        
-digital_clock()
 
 if __name__ == '__main__':
     digital_clock()
