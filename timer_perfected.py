@@ -33,8 +33,6 @@ def simple_way():
         print timer                                     #prints time to screen
         time.sleep(.1)                                  #Slows down the loop
         
-        
-simple_way()
 
 if __name__ == '__main__':
     simple_way()
