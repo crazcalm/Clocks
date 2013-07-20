@@ -82,10 +82,6 @@ def main():
         os.system("cls") # Clears the screen
         print "%s Hours %s Minutes %s Seconds" %(timer[0], timer[1], timer[2])
         time.sleep(0.2) #Used to slow down this process
-        
-        
-        
-main()
 
 if __name__ == '__main__':
     main()
